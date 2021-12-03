@@ -24,7 +24,7 @@ int main() {
         } else {
             if (direction == "forward") {
                 horizontal_pos += val;
-                depth_pos += aim*val;
+                depth_pos += aim * val;
             }
             if (direction == "down") aim += val;
             if (direction == "up") aim -= val;
