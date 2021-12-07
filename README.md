@@ -19,3 +19,4 @@ Day | C++
 04 | [ :star: :star: ](day04-cxx/main.cpp)
 05 | [ :star: :star: ](day05-cxx/main.cpp)
 06 | [ :star: :star: ](day06-cxx/main.cpp)
+07 | [ :star: :star: ](day07-cxx/main.cpp)
